@@ -1,0 +1,30 @@
+h2
+{
+    background-color: #0F044C;
+    color: white;
+}
+p.COMPANY_NAME
+{
+    padding-right: 740px;
+    font-size: 30px;
+}
+.nav-link
+{
+    font-size: 25px;
+}
+#MIDDLECONTENT
+{
+    text-align: center;
+}
+#FOOTERNAV
+{
+    padding-left: 650px;
+}
+#FOOTERLINK
+{
+    font-size: 15px;
+}
+#COPYRIGHT
+{
+    padding-left: 145px;
+}

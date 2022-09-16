@@ -1,0 +1,297 @@
+.TOP
+{
+    margin-top: 40px;
+}
+.TOP1
+{
+    padding-left: 150px;
+    margin-right: 550px;
+}
+
+.PICTURE1
+{
+    padding-left: 115px;
+    background-size: cover;
+}
+p.COMPANY
+{
+    padding-left: 25px;
+    font-size: 35px;
+}
+ul.BUTTONS 
+{
+    list-style-type: none;
+    margin: 0;
+    padding-left: 700px;
+    overflow: hidden;
+}
+li.LINK 
+{
+    float: left;
+}
+li a 
+{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    font-size: x-large;
+}
+li a:hover 
+{
+    color: red;
+}
+li a:active
+{
+    color: yellow;
+}
+hr.LINE
+{
+    height: 5px;
+    background-color:  #FFEEAF;
+    border: none;
+    border-radius: 3px;
+    margin-left: 680px;
+    margin-right: 680px
+}
+.MIDDLE
+{
+    font-size: larger;
+    padding-top: 50px;
+    padding-left: 190px;
+    margin-right: 390px;
+}
+.MIDDLE1
+{
+    padding-left: 70px;
+    padding-top: 40px;
+}
+h3.LISTHEADER
+{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 200px;
+}
+h3.LISTHEADER1
+{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 460px;
+}
+ul.LIST
+{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: larger;
+    padding-left: 200px;    
+    padding-bottom: 35px;
+}
+ul.LIST1
+{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: larger;
+    padding-left: 240px;
+}
+li.POINT
+{
+    padding-bottom: 10px;
+}
+.BOTTOM
+{
+    padding-left: 185px;
+}
+img.IMAGE1
+{
+    display: inline-block;
+    vertical-align: middle;
+}
+img.IMAGE2
+{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 40px;
+}
+img.IMAGE3
+{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 40px;
+}
+h3.PICTURE_DEFINITION
+{
+    display: inline-block;
+    vertical-align: middle;
+}
+h3.PICTURE_DEFINITION1
+{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 168px;
+}
+h3.PICTURE_DEFINITION2
+{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 225px;
+}
+p.PICTURE_CONTENT
+{
+    display: inline-block;
+    vertical-align: middle;
+    width: 27%;
+    padding-bottom: 45px;
+}
+p.PICTURE_CONTENT1
+{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 35px;
+    width: 27%;
+    padding-bottom: 45px;
+}
+p.PICTURE_CONTENT2
+{
+    
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 35px;
+    width: 27%;
+    padding-bottom: 38px;
+}
+img.IMAGE4
+{
+    display: inline-block;
+    vertical-align: middle;
+}
+img.IMAGE5
+{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 40px;
+}
+img.IMAGE6
+{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 40px;
+}
+h3.PICTURE_DEFINITION3
+{
+    display: inline-block;
+    vertical-align: middle;
+}
+h3.PICTURE_DEFINITION4
+{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 168px;
+}
+h3.PICTURE_DEFINITION5
+{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 143px;
+}
+p.PICTURE_CONTENT3
+{
+    display: inline-block;
+    vertical-align: middle;
+    width: 27%;
+}
+p.PICTURE_CONTENT4
+{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 35px;
+    padding-bottom: 15px;
+    width: 27%;
+}
+p.PICTURE_CONTENT5
+{
+    
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 35px;
+    padding-bottom: 15px;
+    width: 27%;
+}
+.BOTTOM1
+{
+    padding-left: 120px;
+}
+table.ABOUT_TABLE
+{
+    display: inline-block;
+    vertical-align: middle;
+    width: 47%;
+}
+th.ABOUT_HEADER
+{
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 210px;
+    margin-bottom: 10px;
+}
+td.ABOUT_CONTENT
+{
+    padding-left: 50px;
+    padding-bottom: 50px;
+    font-size: large;
+    line-height: 1.5;
+}
+img.BOTTOM_IMAGE
+{
+    display: inline-block;
+    vertical-align: middle;
+}
+footer
+{
+    background-color: #FEFBF6;
+}
+h3.CONTACTNUM
+{
+    padding-top: 30px;
+    padding-left: 30px;
+}
+h3.CONTACTMAIL
+{
+    padding-left: 30px;
+}
+h3.CONTACT_ADDRESS
+{
+    padding-bottom: 0px;
+    padding-left: 30px;
+}
+address.ADDRESS
+{
+    padding-left: 30px;
+    width: 15%;
+}
+ul.BUTTONS1
+{
+    padding-top: 25px;
+    list-style-type: none;
+    margin: 0;
+    padding-left: 530px;
+    overflow: hidden;
+
+}
+li.LINK1
+{
+    float: left;
+}
+li a.LINK1
+{
+    display: block;
+    color: #2C3333;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    font-size: small;
+}
+li a:hover
+{
+    color: #A10035;
+}
